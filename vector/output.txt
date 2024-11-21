@@ -1,0 +1,19 @@
+The value of vec=
+5
+9
+
+The value of veco=
+1 2
+4 5
+
+The value of v=
+100
+100
+100
+100
+100
+The value of v2=
+500
+500
+500
+500
